@@ -1,1 +1,3 @@
-# SiemeringJoey.github.io
+# Smart Puck Research Project
+
+##
